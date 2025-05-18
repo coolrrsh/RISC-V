@@ -1,2 +1,2 @@
 # RISC-V
-RISC-V development for SOC design
+RISC-V development for SOC design ProvLogic
